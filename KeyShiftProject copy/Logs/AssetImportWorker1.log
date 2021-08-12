@@ -2363,3 +2363,4 @@ Received Import Request.
 Start importing Assets/Scripts/MusManager.cs using Guid(9e3f2a8edba6644349a1c824f1e3fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e4c9093c7b74437d3dacea1e211310') in 0.006161 seconds 
   Import took 0.016669 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
