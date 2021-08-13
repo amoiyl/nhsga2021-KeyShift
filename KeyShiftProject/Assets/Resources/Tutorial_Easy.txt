@@ -1,0 +1,66 @@
+Wait 32
+F 1 r
+Wait 3
+F 1 r
+Wait 3
+F 1 r
+Wait 3
+F 1 r
+Wait 3
+J 1 r
+Wait 3
+J 1 u
+Wait 3
+J 1 u
+Wait 1
+J 1 u
+Wait 1
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+Wait 31
+H 2.5 u
+H 0.5 r
+H 0.5 r
+H 1.5 r
+Wait 1
+H 1 r
+Wait 1
+G 1 r
+Wait 3
+G 1 d
+Wait 1
+G 1 d
+Wait 1
+G 2.5 d
+G 0.5 r
+G 0.5 r
+G 1.5 r
+Wait 1
+G 1 r
+Wait 1
+H 1 r
+Wait 3
+H 1 u
+Wait 1
+H 1 u
+Wait 1
+H 1 u
+Wait 3
+P 1 r
+Wait 3
+Q 1 r
+Wait 3
+Z 1 r
+Wait 1
+M 1 r
+Wait 1
+G 1 r
+Wait 3
+G 1 d
+Wait 3
+G 1 d
+Wait 3
+J 1 d

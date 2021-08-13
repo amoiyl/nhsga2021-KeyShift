@@ -1,0 +1,116 @@
+Wait 32
+F 1 r
+F 1 r
+F 1 r
+F 1 r
+F 1 r
+F 1 r
+F 1 r
+F 1 r
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+J 1 u
+R 1 r
+R 1 r
+R 1 r
+R 1 r
+R 1 r
+R 1 r
+R 1 r
+R 1 r
+G 1 u
+G 1 u
+H 1 r
+H 1 r
+G 1 u
+H 1 r
+G 1 u
+H 1 r
+G 1 u
+//break
+H 1 r
+Wait 1
+Y 1 u
+Wait 1
+T 1 l
+Wait 1
+R 1 l
+Wait 1
+F 1 u
+Wait 1
+V 1 u
+Wait 1
+B 1 r
+Wait 1
+N 1 r
+Wait 1
+H 1 u
+Wait 1
+Y 1 u
+Wait 1
+T 1 l
+Wait 1
+R 1 l
+Wait 1
+F 1 u
+Wait 1
+V 1 u
+F 1 r
+J 1 r
+F 1 r
+J 1 r
+//back
+H 2.5 u
+H 0.5 r
+H 0.5 r
+J 1 r
+K 1 r
+L 1 r 
+K 1 r
+J 3 r
+J 0.5 r
+J 0.5 u
+H 2.5 u
+G 2 u
+F 2.5 u
+F 0.5 u
+F 0.5 l
+D 1 l
+S 1 l
+A 1 l
+S 1 l
+D 1 l
+F 2 l
+G 0.5 l
+G 0.5 u
+H 2.5 u
+J 2 u
+K 2.5 u
+J 0.5 u
+J 0.5 l
+F 1 l
+J 1 l
+F 1 l
+J 1 l
+F 1 l
+J 2 l 
+F 0.5 l
+F 0.5 l
+J 1 u
+F 1.5 u
+U 2 u
+R 2.5 u
+P 0.5 u
+O 0.5 l
+I 1 l
+U 1 l
+Y 1 l
+T 1 l
+R 1 l
+E 3.5 l 
+A 1 l
