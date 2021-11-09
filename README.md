@@ -4,7 +4,7 @@ Original game KeyShift, presentation to TAs and CMU ETC faculty on August 13
 
 Team:
 
-Programming - Amy Zhao, Christian Fitzpatrick (producer)
+Programming - Amy Zhao, Christian Fitzpatrick 
 
 Art - Ruby Li
 
